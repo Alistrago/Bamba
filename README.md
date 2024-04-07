@@ -1,2 +1,0 @@
-# Bamba
-Lempo
